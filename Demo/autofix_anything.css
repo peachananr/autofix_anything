@@ -1,0 +1,14 @@
+.autofix_sb.fixed {
+  position: fixed !important;
+  left: auto;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  height: 100%;
+  overflow:auto;
+}
+
+.autofix_sb.fixed.bottom {
+  bottom: 0;
+  position: absolute !important;
+}
