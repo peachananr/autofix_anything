@@ -63,4 +63,4 @@ $(".sidebar").manualfix()
 If you want to see more of my plugins, visit [The Pete Design](http://www.thepetedesign.com/#design), or follow me on [Twitter](http://www.twitter.com/peachananr) and [Github](http://www.github.com/peachananr).
 
 ## Other Resources
-- Tutorial (Coming Soon)
+- [Tutorial](http://www.onextrapixel.com/2013/11/18/fix-any-div-container-into-view-port-with-autofix_anything-js/)
