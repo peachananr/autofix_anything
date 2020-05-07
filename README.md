@@ -2,10 +2,9 @@
 This little plugin will let you automatically fix position of any container on your website with one JS call
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
-[![Auto Fix Anything](http://www.thepetedesign.com/images/autofix_image.png "Auto Fix Anything")](http://www.thepetedesign.com/demos/autofix_demo.html)
 
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/autofix_demo.html)
+[View demo](http://peachananr.github.io/autofix_anything/Demo/autofix_demo.html)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari, on desktop have been tested.
