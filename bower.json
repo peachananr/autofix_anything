@@ -1,0 +1,31 @@
+{
+    "name": "autofix_anything",
+    "homepage": "https://github.com/peachananr/autofix_anything",
+    "authors": [
+        "peachananr"
+    ],
+    "description": "This little plugin will let you automatically fix position of any container on your website with one JS call",
+    "main": [
+        "jquery.autofix_anything.js",
+        "autofix_anything.css"
+    ],
+    "dependencies": {
+        "jquery": ">=1.9.1"
+    },
+    "keywords": [
+        "sticky",
+        "fix",
+        "position",
+        "positioning",
+        "fixed",
+        "autofix_anything"
+    ],
+    "license": "GNU GPL",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
